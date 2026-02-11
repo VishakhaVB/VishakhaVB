@@ -4,9 +4,7 @@
 
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=✨+Building+production-ready+applications;💻+Backend+%2B+Frontend+%2B+Deployment;🚀+Learning+by+shipping+real+systems" alt="Typing SVG" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer;Code.+Create.+Conquer.;Turning+Ideas+into+Production+Code)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VishakhaVB&label=Profile%20Views&color=C77DFF&style=for-the-badge" alt="Profile Views" />
