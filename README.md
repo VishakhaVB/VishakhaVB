@@ -54,8 +54,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=false&theme=dark&hide_border=true&border_radius=10&title_color=FF6B9D&text_color=E0AAFF&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF&background=0D1117" width="48%" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=false&theme=dark&hide_border=true&border_radius=10&title_color=FF6B9D&text_color=E0AAFF&bg_color=0D1117&hide_rank=true" width="100%" alt="GitHub Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF&background=0D1117" width="100%" alt="Streak Stats" />
 
 </div>
 
