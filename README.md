@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,6,12,20&text=Vishakha%20Bhilwadkar&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Backend%20Focused%20%7C%20IT%20Student&descSize=20&descAlignY=51"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,2,6,12,20&text=Vishakha%20Bhilwadkar&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20%7C%20IT%20Student&descSize=20&descAlignY=51"/>
 
 </div>
 
@@ -61,6 +61,19 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=radical&hide_border=true&border_radius=15&title_color=C77DFF&text_color=E0AAFF&bg_color=0D1117&langs_count=8" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true&area_color=C77DFF" width="100%" />
+
+---
+
+## 👁️ Profile Views
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishakhaVB&label=Profile%20Views&color=C77DFF&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
