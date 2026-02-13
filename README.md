@@ -54,25 +54,25 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=false&theme=dark&hide_border=true&border_radius=10&title_color=FF6B9D&text_color=E0AAFF&bg_color=0D1117&hide_rank=true" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=false&theme=dark&hide_border=true&border_radius=10&title_color=FF6B9D&text_color=E0AAFF&bg_color=0D1117&hide_rank=true&hide_title=true" width="90%" alt="GitHub Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF&background=0D1117" width="100%" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF&background=0D1117&stroke=FF6B9D" width="90%" alt="Streak Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=dark&hide_border=true&border_radius=10&title_color=FF6B9D&text_color=E0AAFF&bg_color=0D1117&langs_count=6" width="100%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=dark&hide_border=true&border_radius=10&title_color=FF6B9D&text_color=E0AAFF&bg_color=0D1117&langs_count=6&hide_title=true" width="90%" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&area_color=FF6B9D" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&area_color=FF6B9D" width="90%" alt="Activity Graph" />
 
 </div>
 
