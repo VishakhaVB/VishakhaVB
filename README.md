@@ -5,6 +5,7 @@
 </div>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VishakhaVB&label=Profile%20Views&color=C77DFF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/VishakhaVB?label=Followers&style=for-the-badge&color=9D4EDD" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack-C77DFF?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Based-India%20🇮🇳-FF6B9D?style=for-the-badge" alt="Location" />
@@ -68,14 +69,6 @@
 
 ---
 
-## 👁️ Profile Views
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishakhaVB&label=Profile%20Views&color=C77DFF&style=flat-square" alt="Profile Views" />
-</p>
-
----
 
 ## � Connect With Me
 ---
