@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishakhaVB&label=Profile%20Views&color=C77DFF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-0-9D4EDD?style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/VishakhaVB?label=Followers&style=for-the-badge&color=9D4EDD" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack-C77DFF?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Based-India%20🇮🇳-FF6B9D?style=for-the-badge" alt="Location" />
@@ -54,18 +54,18 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=true&theme=radical&hide_border=true&border_radius=15&title_color=C77DFF&icon_color=E0AAFF&text_color=E0AAFF&bg_color=0D1117" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=radical&hide_border=true&border_radius=15&ring=C77DFF&fire=FF6B9D&currStreakLabel=C77DFF&background=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=true&theme=radical&hide_border=true&border_radius=15&title_color=FF6B9D&icon_color=C77DFF&text_color=E0AAFF&bg_color=0D1117" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=radical&hide_border=true&border_radius=15&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF&background=0D1117" width="48%" />
 
 </div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=radical&hide_border=true&border_radius=15&title_color=C77DFF&text_color=E0AAFF&bg_color=0D1117&langs_count=8" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=radical&hide_border=true&border_radius=15&title_color=FF6B9D&text_color=E0AAFF&bg_color=0D1117&langs_count=8" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true&area_color=C77DFF" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&area_color=FF6B9D" width="100%" />
 
 ---
 
