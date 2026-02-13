@@ -54,14 +54,14 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=true&theme=midnight-blue&hide_border=true&border_radius=10&title_color=FF6B9D&text_color=E0AAFF&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=true&theme=dark&hide_border=true&border_radius=10&title_color=FF6B9D&text_color=E0AAFF&bg_color=0D1117" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF&background=0D1117" width="48%" />
 
 </div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=midnight-blue&hide_border=true&border_radius=10&title_color=FF6B9D&text_color=E0AAFF&bg_color=0D1117&langs_count=8" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=dark&hide_border=true&border_radius=10&title_color=FF6B9D&text_color=E0AAFF&bg_color=0D1117&langs_count=6" width="100%" />
 
 <br/>
 
