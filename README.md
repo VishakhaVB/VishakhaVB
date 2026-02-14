@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,2,6,12,20&text=Vishakha%20Bhilwadkar&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20AI/ML%20%7C%20IT%20Student&descSize=20&descAlignY=51"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,6,12,20&text=Vishakha%20Bhilwadkar&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer&descSize=14&descAlignY=60"/>
 
 </div>
 
@@ -29,17 +29,17 @@
 
 **Languages:**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&theme=dark" width="60%" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&theme=dark" />
 </p>
 
 **Frontend:**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap&theme=dark" width="60%" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap&theme=dark"  />
 </p>
 
 **Backend & Database:**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase&theme=dark "width="60%" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase&theme=dark " />
 </p>
 
 **Tools & Platforms:**
@@ -54,13 +54,14 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF&background=0D1117&stroke=FF6B9D" width="60%" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C77DFF&text_color=FFF" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF" width="49%" alt="Streak Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&area_color=FF6B9D" width="60%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&area_color=FF6B9D" width="98%" alt="Activity Graph" />
 
 </div>
 
