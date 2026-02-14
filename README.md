@@ -1,92 +1,152 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,6,12,20&text=Vishakha%20Bhilwadkar&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer&descSize=14&descAlignY=60"/>
+# 👋 Vishakha Bhilwadkar
+
+### Full Stack Developer | MERN Stack Engineer | Backend Developer | PWA Specialist
+
+[![Profile Views](https://komarev.com/ghpvc/?username=VishakhaVB&color=blueviolet&style=flat-square)](https://github.com/VishakhaVB)
+[![GitHub Followers](https://img.shields.io/github/followers/VishakhaVB?style=flat-square&color=blueviolet)](https://github.com/VishakhaVB?tab=followers)
+
+*Building scalable web applications with modern technologies | IT Engineering Student*
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishakhaVB&label=Profile%20Views&color=FF6B9D&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/VishakhaVB?label=Followers&style=for-the-badge&color=9D4EDD" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-C77DFF?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Based-India%20🇮🇳-FF6B9D?style=for-the-badge" alt="Location" />
-</p>
+---
+
+## 🎯 About Me
+
+Full-Stack Developer specializing in **scalable backend systems**, **progressive web applications**, and **production-ready deployments**. Focused on building end-to-end software systems with real-world impact.
+
+- 🔧 **Engineering Focus**: Scalable architectures, RESTful APIs, microservices design
+- 🚀 **Production Mindset**: Code, deploy, iterate—shipping functional applications
+- ☁️ **Cloud & DevOps**: Experience with containerization, CI/CD, cloud deployment
+- 📊 **System Design**: Database optimization, API development, performance tuning
+- 💼 **Actively Seeking**: Internships and collaborative engineering opportunities
 
 ---
 
-## ✨ About Me
----
+## 🔥 Current Focus
 
-- 💜 **Full-Stack Developer** | IT Engineering Student
-- 🚀 Building production-ready applications with scalable backend systems
-- 💻 Production-focused: code, deploy, iterate
-- 📚 Exploring system design, API development, and cloud deployment patterns
-- 🤝 Open to internships, collaborations, and open-source contributions
-
----
-
-## 🛠️ Tech Stack
----
-
-**Languages:**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&theme=dark" />
-</p>
-
-**Frontend:**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap&theme=dark"  />
-</p>
-
-**Backend & Database:**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase&theme=dark " />
-</p>
-
-**Tools & Platforms:**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel&theme=dark" />
-</p>
+```yaml
+Learning: System Design, Advanced Backend Architecture, Scalable APIs
+Building: Production-grade full-stack applications
+Exploring: Cloud deployment patterns, microservices, containerization
+Improving: Code quality, testing strategies, documentation practices
+```
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Featured Work
+
+> **Explore my pinned repositories below** for production-grade applications including scalable backend systems, progressive web apps, and deployed full-stack projects.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C77DFF&text_color=FFF&include_all_commits=true" width="48%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF" width="48%" alt="Streak Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&langs_count=8" width="48%" alt="Top Languages" />
+<img src="https://github-contributor-stats.vercel.app/api?username=VishakhaVB&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&icon_color=C77DFF" width="48%" alt="Contribution Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&area_color=FF6B9D" width="98%" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VishakhaVB&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/VishakhaVB)
+
+</div>
+
+---
+
+## 💼 Open for Opportunities
+
+I am actively seeking **software engineering internships** and **collaborative projects** where I can contribute to real-world systems, learn from experienced engineers, and grow as a developer.
+
+**What I bring:**
+- Strong foundation in full-stack development with MERN stack
+- Production-ready coding practices and deployment experience
+- Fast learner with a passion for building scalable solutions
+- Team collaboration and version control proficiency
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishakha-bhilwadkar-987722285/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishakhabhilwadkar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishakhaVB)
+
+**📧 vishakhabhilwadkar@gmail.com** | **🌐 [GitHub Portfolio](https://github.com/VishakhaVB)**
+
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C77DFF&text_color=FFF" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF" width="49%" alt="Streak Stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&area_color=FF6B9D" width="98%" alt="Activity Graph" />
-
-</div>
-
----
-
-
-## � Connect With Me
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishakha-bhilwadkar-987722285/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vishakhabhilwadkar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/VishakhaVB">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>💼 Open for Internships | Collaborations | Projects</b>
-</p>
-
-<br/>
+### ⚡ "Code with purpose, build with passion, deploy with confidence"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,12,20&height=100&section=footer"/>
+
+</div>
