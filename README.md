@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,6,12,20&text=Vishakha%20Bhilwadkar&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI/ML%20%7C%20IT%20Student&descSize=20&descAlignY=51"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,2,6,12,20&text=Vishakha%20Bhilwadkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=25&desc=Full-Stack%20Developer%20%7C%20AI/ML%20%7C%20IT%20Student&descSize=20&descAlignY=25"/>
 
 </div>
 
@@ -54,13 +54,13 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF&background=0D1117&stroke=FF6B9D" width="90%" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF&background=0D1117&stroke=FF6B9D" width="60%" alt="Streak Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&area_color=FF6B9D" width="90%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&area_color=FF6B9D" width="60%" alt="Activity Graph" />
 
 </div>
 
