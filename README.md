@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,2,6,12,20&text=Vishakha%20Bhilwadkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=25&desc=Full-Stack%20Developer%20%7C%20AI/ML%20%7C%20IT%20Student&descSize=20&descAlignY=25"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,2,6,12,20&text=Vishakha%20Bhilwadkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI/ML%20%7C%20IT%20Student&descSize=20&descAlignY=40"/>
 
 </div>
 
@@ -29,17 +29,17 @@
 
 **Languages:**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css&theme=dark width="60%"" />
 </p>
 
 **Frontend:**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap&theme=dark width="60%"" />
 </p>
 
 **Backend & Database:**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase&theme=dark width="60%"" />
 </p>
 
 **Tools & Platforms:**
