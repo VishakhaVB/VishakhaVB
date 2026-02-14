@@ -2,7 +2,7 @@
 
 # 👋 Vishakha Bhilwadkar
 
-### Full Stack Developer | MERN Stack Engineer | Backend Developer | PWA Specialist
+### Full Stack Developer | MERN Stack Engineer |  PWA Specialist
 
 [![Profile Views](https://komarev.com/ghpvc/?username=VishakhaVB&color=blueviolet&style=flat-square)](https://github.com/VishakhaVB)
 [![GitHub Followers](https://img.shields.io/github/followers/VishakhaVB?style=flat-square&color=blueviolet)](https://github.com/VishakhaVB?tab=followers)
@@ -87,35 +87,13 @@ Improving: Code quality, testing strategies, documentation practices
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishakhaVB&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=C77DFF&text_color=FFF&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF" width="48%" alt="Streak Stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&langs_count=8" width="48%" alt="Top Languages" />
-<img src="https://github-contributor-stats.vercel.app/api?username=VishakhaVB&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFF&icon_color=C77DFF" width="48%" alt="Contribution Stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishakhaVB&bg_color=0D1117&color=FF6B9D&line=C77DFF&point=E0AAFF&area=true&hide_border=true&area_color=FF6B9D" width="98%" alt="Contribution Activity Graph" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=VishakhaVB&theme=tokyonight&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=VishakhaVB&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/VishakhaVB)
-
-</div>
-
----
 
 ## 💼 Open for Opportunities
 
