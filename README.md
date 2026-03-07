@@ -32,7 +32,6 @@ Building: Full-Stack Web Applications
 Exploring: Cloud Deployment
 Improving: Code Quality
 ```
----
 
 ## 💻 Tech Stack
 
