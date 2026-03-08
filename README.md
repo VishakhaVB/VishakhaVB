@@ -15,8 +15,7 @@
 ## 🎯 About Me
 
 Full-Stack Developer focused on **backend systems**, **REST APIs**, and **progressive web applications**.
-
-- 🔧 Scalable backend & API development  
+  
 - 🚀 Build → Deploy → Improve workflow  
 - ☁️ Exploring cloud & system design  
 - 💼 Open to **Software Engineering Internships**
@@ -26,7 +25,7 @@ Full-Stack Developer focused on **backend systems**, **REST APIs**, and **progre
 ## 🔥 Current Focus
 
 ```yaml
-Learning: System Design, Backend Architecture
+Learning: System Design
 Building: Full-Stack Web Applications
 Exploring: Cloud Deployment
 Improving: Code Quality
