@@ -27,7 +27,7 @@ Full-Stack Developer focused on **backend systems**, **REST APIs**, and **progre
 ```yaml
 Learning: System Design
 Building: Full-Stack Web Applications
-Exploring: Cloud Deployment
+Exploring: AI
 Improving: Code Quality
 ```
 
