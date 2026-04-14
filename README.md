@@ -71,6 +71,8 @@ Improving: Code Quality
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VishakhaVB&theme=tokyonight&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 
+[![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact)](https://github.com/VishakhaVB)
+
 </div>
 
 ---
