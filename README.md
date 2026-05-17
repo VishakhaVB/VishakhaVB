@@ -3,7 +3,7 @@
 # 👋 Vishakha Bhilwadkar
 
 [![Profile Views](https://komarev.com/ghpvc/?username=VishakhaVB&color=8A2BE2&style=flat-square)](https://github.com/VishakhaVB)
-[![Followers](https://img.shields.io/github/followers/VishakhaVB?color=8A2BE2&style=flat-square)](https://github.com/VishakhaVB?tab=followers)
+[![Followers](https://img.shields.io/github/followers/VishakhaVB?color=8A2BE2&style=flat-square)](https://github.com/VishakhaVB?tab=Followers)
 [![GSSoC 2026](https://img.shields.io/badge/GSSoC'26-Open%20Source-8A2BE2?style=flat-square)](https://gssoc.girlscript.org/)
 
 *Full-Stack Developer • GSSoC'26 Contributor • IT Engineering Student*
