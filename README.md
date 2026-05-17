@@ -6,8 +6,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=VishakhaVB&color=blueviolet&style=flat-square)](https://github.com/VishakhaVB)
 [![GitHub Followers](https://img.shields.io/github/followers/VishakhaVB?style=flat-square&color=blueviolet)](https://github.com/VishakhaVB?tab=followers)
+[![GSSoC'26](https://img.shields.io/badge/GSSoC'26-Contributor-ff69b4?style=flat-square)](https://gssoc.girlscript.org/)
 
-*Building scalable web applications with modern technologies | IT Engineering Student*
+*Full-Stack Developer • GSSoC'26 Contributor • IT Engineering Student*
 
 </div>
 
@@ -15,7 +16,8 @@
 ## 🎯 About Me
 
 Full-Stack Developer focused on **backend systems**, **REST APIs**, and **progressive web applications**.
-  
+
+- 🌟 Contributor at **GSSoC 2026 (Open Source & AI/Agents Track)**  
 - 🚀 Build → Deploy → Improve workflow  
 - ☁️ Exploring cloud & system design  
 - 💼 Open to **Software Engineering Internships**
