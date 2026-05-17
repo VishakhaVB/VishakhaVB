@@ -2,6 +2,11 @@
 
 # 👋 Vishakha Bhilwadkar
 
+<img 
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=100&lines=Full-Stack+Developer;GSSoC'26+Contributor;IT+Engineering+Student;Building+Scalable+Web+Applications" 
+alt="Typing SVG" 
+/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=VishakhaVB&color=8A2BE2&style=flat-square)](https://github.com/VishakhaVB)
 [![Followers](https://img.shields.io/github/followers/VishakhaVB?color=8A2BE2&style=flat-square)](https://github.com/VishakhaVB?tab=followers)
 [![GSSoC 2026](https://img.shields.io/badge/GSSoC'26-Open%20Source-8A2BE2?style=flat-square)](https://gssoc.girlscript.org/)
