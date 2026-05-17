@@ -1,10 +1,7 @@
 <div align="center">
 
-# 👋 Vishakha Bhilwadkar
-
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=38&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=100&lines=Full-Stack+Developer;GSSoC'26+Contributor;IT+Engineering+Student;Building+Scalable+Web+Applications" 
-alt="Typing SVG" 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8A2BE2&height=220&section=header&text=Vishakha%20Bhilwadkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20GSSoC'26%20Contributor&descAlignY=55&descSize=18"
 />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=VishakhaVB&color=8A2BE2&style=flat-square)](https://github.com/VishakhaVB)
