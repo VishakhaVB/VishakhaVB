@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:4A00E0,100:8E2DE2&height=220&section=header&text=Vishakha%20Bhilwadkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20GSSoC'26%20Contributor&descAlignY=55&descSize=18"
+src="https://capsule-render.vercel.app/api?type=venom&height=240&text=Vishakha%20Bhilwadkar&fontSize=42&fontColor=ffffff&stroke=ffffff&animation=fadeIn&colorA=141E30&colorB=8E2DE2&desc=Full-Stack%20Developer%20|%20GSSoC'26%20Contributor&descSize=18&descAlignY=65"
 />
 [![Profile Views](https://komarev.com/ghpvc/?username=VishakhaVB&color=8A2BE2&style=flat-square)](https://github.com/VishakhaVB)
 [![Followers](https://img.shields.io/github/followers/VishakhaVB?color=8A2BE2&style=flat-square)](https://github.com/VishakhaVB?tab=followers)
@@ -111,7 +111,7 @@ Seeking **Software Engineering Internships** and **collaborative projects**.
 ### ⚡ "Code with purpose, build with passion, deploy with confidence"
 
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8A2BE2&height=100&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:4A00E0,100:8E2DE2&height=100&section=footer"
 />
 
 </div>
