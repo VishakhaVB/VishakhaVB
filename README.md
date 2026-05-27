@@ -74,7 +74,7 @@ Improving: Code Quality
 
 <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=radical&hide_border=true" height="170" style="margin-left: 20px;"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishakhaVB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-rhythm.vercel.app/api?username=VishakhaVB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
 
 </div>
 
