@@ -3,6 +3,7 @@
 <img 
 src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00C6FF,100:00FFB3&height=220&section=header&text=Vishakha%20Bhilwadkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20GSSoC'26%20Contributor&descAlignY=55&descSize=18"
 />
+
 [![Profile Views](https://komarev.com/ghpvc/?username=VishakhaVB&color=8A2BE2&style=flat-square)](https://github.com/VishakhaVB)
 [![Followers](https://img.shields.io/github/followers/VishakhaVB?color=8A2BE2&style=flat-square)](https://github.com/VishakhaVB?tab=followers)
 [![GSSoC 2026](https://img.shields.io/badge/GSSoC'26-Open%20Source-8A2BE2?style=flat-square)](https://gssoc.girlscript.org/)
