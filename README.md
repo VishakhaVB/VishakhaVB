@@ -80,20 +80,6 @@ Improving: Code Quality
 
 ---
 
-
-
-## 💼 Open for Opportunities
-
-Seeking **Software Engineering Internships** and **collaborative projects**.
-
-**Strengths**
-- Full-stack development experience  
-- Production-ready coding & deployment  
-- Fast learner, scalable-solution mindset  
-- Git-based collaboration & teamwork
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
