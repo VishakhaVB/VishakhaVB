@@ -88,6 +88,8 @@ Improving: Code Quality
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishakhabhilwadkar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishakhaVB)
 
+![GitHub Stats](https://github-readme-stats-rhythm.vercel.app/api?username=VishakhaVB&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
+
 
 
 </div>
