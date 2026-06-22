@@ -73,7 +73,7 @@ Improving: Code Quality
 
 <img src="https://streak-stats.demolab.com?user=VishakhaVB&theme=radical&hide_border=true&cache_seconds=1" />
 
-<img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=radical&hide_border=true" height="170" style="margin-left: 20px;"/>
+<img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=radical&hide_border=true" height="180" style="margin-left: 20px;"/>
 
 </div>
 
