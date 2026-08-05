@@ -75,6 +75,10 @@ Improving: Code Quality
 
 <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=radical&hide_border=true" height="200" style="margin-left: 20px;"/>
 
+
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VishakhaVB&show_icons=true&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
