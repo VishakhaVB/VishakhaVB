@@ -71,9 +71,15 @@ Improving: Code Quality
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=VishakhaVB&theme=radical&hide_border=true&cache_seconds=1" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishakhaVB&theme=2077)
 
 <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=VishakhaVB&layout=compact&theme=radical&hide_border=true" height="200" style="margin-left: 20px;"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishakhaVB&theme=2077)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VishakhaVB&theme=2077&utcOffset=5.5)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VishakhaVB&theme=2077)
 
 </div>
 
