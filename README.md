@@ -69,17 +69,38 @@ Improving: Code Quality
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&hide_border=false&background=0D1117&border=30363D&ring=22D3EE&fire=F472B6&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=F472B6&sideLabels=22D3EE&dates=8B949E"
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishakhaVB&theme=2077" width="41%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishakhaVB&theme=2077" width="41%">
-</p>
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com/?user=VishakhaVB&background=0D1117&border=30363D&ring=22D3EE&fire=F472B6&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=F472B6&sideLabels=22D3EE&dates=8B949E"
+    alt="GitHub Streak"
+    width="800"
+  />
+
+  <br><br>
+
+  <!-- Language + Stats -->
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishakhaVB&theme=github_dark"
+          alt="Top Languages"
+          width="390"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishakhaVB&theme=github_dark"
+          alt="GitHub Stats"
+          width="390"
+        />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ---
 
