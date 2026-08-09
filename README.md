@@ -70,7 +70,10 @@ Improving: Code Quality
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&hide_border=false" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&hide_border=false&background=0D1117&border=30363D&ring=22D3EE&fire=F472B6&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=F472B6&sideLabels=22D3EE&dates=8B949E"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
