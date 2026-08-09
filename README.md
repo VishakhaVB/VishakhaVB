@@ -71,6 +71,7 @@ Improving: Code Quality
 
 <div align="center">
 
+<!-- GitHub Streak -->
 <img
   src="https://streak-stats.demolab.com/?user=VishakhaVB&background=0D1117&border=30363D&ring=22D3EE&fire=F472B6&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=F472B6&sideLabels=22D3EE&dates=8B949E"
   width="600"
@@ -79,17 +80,25 @@ Improving: Code Quality
 
 <br><br>
 
+<table>
+<tr>
+<td>
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishakhaVB&theme=github_dark"
   width="290"
   alt="Top Languages"
 />
+</td>
 
+<td>
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishakhaVB&theme=github_dark"
   width="290"
   alt="GitHub Stats"
 />
+</td>
+</tr>
+</table>
 
 </div>
 
