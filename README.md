@@ -70,7 +70,7 @@ Improving: Code Quality
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishakhaVB&theme=2077" width="85%">
+  <img src="https://streak-stats.demolab.com/?user=VishakhaVB&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
