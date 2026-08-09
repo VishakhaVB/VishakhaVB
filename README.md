@@ -71,34 +71,25 @@ Improving: Code Quality
 
 <div align="center">
 
-  <!-- GitHub Streak -->
-  <img
-    src="https://streak-stats.demolab.com/?user=VishakhaVB&background=0D1117&border=30363D&ring=22D3EE&fire=F472B6&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=F472B6&sideLabels=22D3EE&dates=8B949E"
-    alt="GitHub Streak"
-    width="800"
-  />
+<img
+  src="https://streak-stats.demolab.com/?user=VishakhaVB&background=0D1117&border=30363D&ring=22D3EE&fire=F472B6&currStreakNum=22D3EE&sideNums=A78BFA&currStreakLabel=F472B6&sideLabels=22D3EE&dates=8B949E"
+  width="600"
+  alt="GitHub Streak"
+/>
 
-  <br><br>
+<br><br>
 
-  <!-- Language + Stats -->
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishakhaVB&theme=github_dark"
-          alt="Top Languages"
-          width="390"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishakhaVB&theme=github_dark"
-          alt="GitHub Stats"
-          width="390"
-        />
-      </td>
-    </tr>
-  </table>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishakhaVB&theme=github_dark"
+  width="290"
+  alt="Top Languages"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VishakhaVB&theme=github_dark"
+  width="290"
+  alt="GitHub Stats"
+/>
 
 </div>
 
