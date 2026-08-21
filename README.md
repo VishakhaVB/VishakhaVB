@@ -63,7 +63,7 @@ Improving: Code Quality
 
 ## 📌 Featured Work
 
-> **Explore my pinned repositories below** for production-grade applications including scalable backend systems, progressive web apps, and deployed full-stack projects.
+> **Explore my pinned repositories below** for production-grade applications including scalable backend systems, progressive web apps, and deployed full-stack projects..
 
 ---
 
