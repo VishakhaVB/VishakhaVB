@@ -8,7 +8,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,
 [![Followers](https://img.shields.io/github/followers/VishakhaVB?color=8A2BE2&style=flat-square)](https://github.com/VishakhaVB?tab=followers)
 [![GSSoC 2026](https://img.shields.io/badge/GSSoC'26-Open%20Source-8A2BE2?style=flat-square)](https://gssoc.girlscript.org/)
 
-*Full-Stack Developer • GSSoC'26 Contributor • IT Engineering Student*
+*Software Engineering Student • Full-Stack Developer • AI/ML Learner*
 
 </div>
 
