@@ -84,7 +84,7 @@ Improving: Code Quality
 <tr>
 <td>
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishakhaVB&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VishakhaVB&theme=radical"
   width="290"
   alt="Top Languages"
 />
